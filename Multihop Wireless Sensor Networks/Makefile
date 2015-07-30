@@ -1,0 +1,3 @@
+COMPONENT=BuildNetworkAppC
+include ${MAKERULES}
+
